@@ -19,6 +19,10 @@
 		vertical-align: baseline;
 	}
 
+	#three, #four, #footer section {
+		display:none;
+	}
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
